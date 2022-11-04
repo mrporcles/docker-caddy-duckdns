@@ -1,2 +1,2 @@
 # docker-caddy-duckdns
-Caddy container with compiled duckdns module
+Caddy container with compiled duckdns module.
