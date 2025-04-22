@@ -1,4 +1,4 @@
-FROM caddy:builder-alpine AS builder
+FROM caddy:builder AS builder
 
 RUN xcaddy build \
     --with github.com/caddy-dns/duckdns
